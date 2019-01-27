@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1548592324,
+	"version": 1548595481,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -81,7 +81,6 @@
 		"13016-webfont.woff",
 		"13016-webfont.woff2",
 		"stylesheet.css",
-		"13016.ttf",
 		"penumbra.png",
 		"pathfind.js"
 	]
