@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1548595481,
+	"version": 1548707454,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -61,6 +61,9 @@
 		"images/big_demon-sheet0.png",
 		"images/tag2-sheet0.png",
 		"images/exitarrow-sheet0.png",
+		"images/light-sheet0.png",
+		"images/darkness2-sheet0.png",
+		"images/dust-sheet0.png",
 		"media/explosion.ogg",
 		"media/explosion2.ogg",
 		"media/shoot.ogg",
@@ -72,6 +75,10 @@
 		"media/speed.ogg",
 		"media/hothit.ogg",
 		"media/hitdemon.ogg",
+		"media/hit_hurt99.ogg",
+		"media/hit_hurt100.ogg",
+		"media/hit_hurt101.ogg",
+		"media/blip_select87.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
