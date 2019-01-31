@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1548708313,
+	"version": 1548969274,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -19,7 +19,6 @@
 		"images/tag-sheet0.png",
 		"images/building-sheet0.png",
 		"images/buildings.png",
-		"images/backgroundtilemap.png",
 		"images/darkness-sheet0.png",
 		"images/weapon-sheet0.png",
 		"images/weapon-sheet1.png",
@@ -63,6 +62,8 @@
 		"images/exitarrow-sheet0.png",
 		"images/light-sheet0.png",
 		"images/darkness2-sheet0.png",
+		"images/woods-sheet0.png",
+		"images/levelborders-sheet0.png",
 		"images/dust-sheet0.png",
 		"media/explosion.ogg",
 		"media/explosion2.ogg",
