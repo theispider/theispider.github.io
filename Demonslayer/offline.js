@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1549915978,
+	"version": 1549917250,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -24,7 +24,6 @@
 		"images/energybar-sheet0.png",
 		"images/hpbar-sheet0.png",
 		"images/riffle-sheet0.png",
-		"images/riffle-sheet1.png",
 		"images/bullet-sheet0.png",
 		"images/chort-sheet0.png",
 		"images/chort-sheet1.png",
@@ -70,8 +69,9 @@
 		"images/chest-sheet1.png",
 		"images/chest-sheet2.png",
 		"images/pistol-sheet0.png",
-		"images/pistol-sheet1.png",
-		"images/pistol-sheet2.png",
+		"images/knife-sheet0.png",
+		"images/shotgun-sheet0.png",
+		"images/sword-sheet0.png",
 		"images/hpbarpatch.png",
 		"images/hppotion-sheet0.png",
 		"images/chestspawn-sheet0.png",
