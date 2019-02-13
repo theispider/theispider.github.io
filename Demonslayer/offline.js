@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1549917250,
+	"version": 1550089780,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -76,7 +76,12 @@
 		"images/hppotion-sheet0.png",
 		"images/chestspawn-sheet0.png",
 		"images/smallpanel2-sheet0.png",
+		"images/smallpanel2-sheet1.png",
 		"images/button-sheet0.png",
+		"images/sprite2-sheet0.png",
+		"images/smalldust-sheet0.png",
+		"images/bigdust-sheet0.png",
+		"images/closebutton-sheet0.png",
 		"media/explosion.ogg",
 		"media/explosion2.ogg",
 		"media/hit.ogg",
