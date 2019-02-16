@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1550089780,
+	"version": 1550320874,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -82,6 +82,8 @@
 		"images/smalldust-sheet0.png",
 		"images/bigdust-sheet0.png",
 		"images/closebutton-sheet0.png",
+		"images/player_small2-sheet0.png",
+		"images/player_small2-sheet1.png",
 		"media/explosion.ogg",
 		"media/explosion2.ogg",
 		"media/hit.ogg",
